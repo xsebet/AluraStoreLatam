@@ -28,11 +28,14 @@ Basado en los resultados del análisis:
 
 **Recomendación:**
 
-Se recomienda al Sr. Juan que venda sus productos en la **Tienda 3**. Esta recomendación se basa principalmente en la alta satisfacción del cliente (reflejada en la calificación promedio) y en costos de envío promedio favorables, lo que sugiere un entorno propicio para la venta y una potencial mayor rentabilidad neta, a pesar de no tener los ingresos brutos más altos.
+ El Sr. Juan debería vender la **Tienda 4**.
 
-## Visualizaciones
+**Justificación:**
 
-El cuaderno incluye diversas visualizaciones (gráficos de barras, gráficos circulares, gráficos de dispersión y mapas de calor) que ilustran los hallazgos de cada etapa del análisis.
+* La Tienda 4 presenta los menores ingresos totales, lo que indica un rendimiento económico inferior en comparación con las otras tiendas.
+* Aunque tiene el costo de envío promedio más bajo, sus ingresos brutos son los más bajos, lo que podría indicar una menor actividad de ventas en general.
+* Si bien sus categorías de productos más vendidas son consistentes con la tendencia general, la menor cantidad de productos vendidos en total (2358 vs 2359 en las otras tiendas) y el menor ingreso total sugieren un desempeño general más débil.
+
 
 ## Archivos del Proyecto
 
